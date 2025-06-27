@@ -1,4 +1,4 @@
-
+package java;
 public class armstrongnumber {
     
     public static void main(String[] args) {
