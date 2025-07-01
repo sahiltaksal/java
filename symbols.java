@@ -1,5 +1,3 @@
-package java;
-
 //program to print all symbols whose ascii value is in between 1 to 25
 public class symbols {
 
