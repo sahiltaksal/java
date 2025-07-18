@@ -21,6 +21,6 @@ public class LeetCode35 {
                end=mid-1;
             }
         }
-        return start;
+        return start ;
     }
 }
