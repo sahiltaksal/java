@@ -3,7 +3,7 @@
 public class Peakindex852Leetcode {
 
      public static void main(String[] args) {
-        int arr[]={0,1,0};
+        int arr[]={0,1,0,2,3,5,4,7,8};
         System.out.println(peakIndexInMountainArray(arr));
 
      }
@@ -24,5 +24,6 @@ public class Peakindex852Leetcode {
             
         }
         return start;
+
     }
 }
