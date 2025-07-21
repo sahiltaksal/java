@@ -1,6 +1,6 @@
 # Java Practice Programs ☕
 
-This repository contains basic to advanced Java programs for practice and learning.
+This repository contains basic to advanced Java programs for practice and learning new things.
 
 ---
 
