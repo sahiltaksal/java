@@ -1,5 +1,4 @@
 
-
 public class inverted_right {
     public static void main(String[] args) {
         int num=5;

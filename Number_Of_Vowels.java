@@ -9,8 +9,6 @@ public class Number_Of_Vowels {
                 count++;
            
             }
-            
-
         }
         System.out.println(count);
     }
