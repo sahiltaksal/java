@@ -5,7 +5,11 @@ public class LeetCode35 {
 
         System.out.println(searchInsert(nums, 2));
         // System.out.println(mid);
+
+    
     }
+
+    
 
     public static int searchInsert(int[] nums, int target) {
         int start = 0;
