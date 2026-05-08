@@ -23,6 +23,6 @@ public class EvenNumberLeetCode {
 
         System.out.println("hi");
         System.out.println(count);
-
+    
     }
 }
